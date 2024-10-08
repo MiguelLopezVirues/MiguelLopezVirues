@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel López Virués</h1>
+<p align="center">
+  <img src="assets/banner_MiguelLopezVirues.gif" alt="alt text" title="Title">
+</p>
+
 <h3 align="center">A passionate Data Scientist 📊⚗️ and Analyst from Spain</h3>
 
 - 🌱 I’m currently learning **OOP in Python, Time Series Extrinsic Regression, Deep Learning**
