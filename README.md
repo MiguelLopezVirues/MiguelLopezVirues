@@ -5,11 +5,9 @@
 
 <h3 align="center">A passionate Data Scientist 📊⚗️ and Analyst from Spain</h3>
 
-- 🌱 I’m currently learning **OOP in Python, Time Series Extrinsic Regression, Deep Learning**
+- 🌱 I’m currently learning **Algorithmic Trading & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://miguellopezvirues.github.io/portfolio/](https://miguellopezvirues.github.io/portfolio/)
-
-- 💬 Ask me about **Data Analysis and classical Machine Learning**
+- 💬 Ask me about **Data Analysis, Machine/Deep Learning**
 
 - 📫 How to reach me **miguel.lopezvirues@gmail.com**
 
