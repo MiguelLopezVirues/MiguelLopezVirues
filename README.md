@@ -3,7 +3,7 @@
   <img src="assets/banner_MiguelLopezVirues.gif" alt="alt text" title="Title">
 </p>
 
-<h3 align="center">A passionate Data Scientist 📊⚗️ and Analyst from Spain</h3>
+<h3 align="center">A passionate Data Scientist⚗️ and Analyst📊 from Spain</h3>
 
 - 🌱 I’m currently learning **Algorithmic Trading & Deep Learning**
 
